@@ -1,0 +1,1 @@
+<view><top-nav vue-id="1b755c4b-1" bind:__l="__l"></top-nav><web-view src="{{bannerDetail}}"></web-view></view>

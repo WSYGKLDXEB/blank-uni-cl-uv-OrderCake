@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-calendar": "/node-modules/uview-ui/components/u-calendar/u-calendar",
+    "cart-list": "/components/cart-list"
+  }
+}

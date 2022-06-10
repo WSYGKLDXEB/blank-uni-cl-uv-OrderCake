@@ -1,0 +1,1 @@
+<view><button type="default" data-event-opts="{{[['tap',[['chaxun',['$event']]]]]}}" bindtap="__e">查询</button><button type="default" data-event-opts="{{[['tap',[['fenlei',['$event']]]]]}}" bindtap="__e">录入分类</button><button type="default" data-event-opts="{{[['tap',[['shangping',['$event']]]]]}}" bindtap="__e">录入商品</button></view>

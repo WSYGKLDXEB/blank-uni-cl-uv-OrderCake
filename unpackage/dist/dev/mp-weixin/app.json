@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/user/user",
+    "pages/detail/detail",
+    "pages/home/banner-detail",
+    "pages/coliect-data/coliect-data",
+    "pages/classify/classify",
+    "pages/cart/cart",
+    "pages/search/search",
+    "pages/user/forget-password",
+    "pages/user/login",
+    "pages/user/registration",
+    "pages/order/order",
+    "pages/address/address"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "订购",
+    "navigationBarBackgroundColor": "#f1f1f1",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "top-nav": "/components/TopNav",
+    "home-title": "/components/title-custom",
+    "cake-list": "/components/cake-list/cake-list",
+    "back-top": "/components/BackTop",
+    "tabbar": "/components/Tabbar",
+    "left-popup": "/components/leftPopup",
+    "jump": "/components/Jump"
+  }
+}

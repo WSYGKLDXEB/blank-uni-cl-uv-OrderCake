@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-sticky": "/node-modules/uview-ui/components/u-sticky/u-sticky",
+    "u-subsection": "/node-modules/uview-ui/components/u-subsection/u-subsection",
+    "u-transition": "/node-modules/uview-ui/components/u-transition/u-transition"
+  }
+}

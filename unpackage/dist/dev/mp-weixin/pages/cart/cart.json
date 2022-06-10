@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-overlay": "/node-modules/uview-ui/components/u-overlay/u-overlay",
+    "cart-list": "/components/cart-list"
+  }
+}
